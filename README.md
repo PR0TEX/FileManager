@@ -8,5 +8,4 @@ Basic file manager with multiple options to rearange files/directories.
 * Sort
 * Copy
 * Modify
-  *dfsd
 * Group by
