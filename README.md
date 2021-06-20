@@ -1,4 +1,4 @@
-# FileManger
+# FileManager
 
 Basic file manager with multiple options to rearange files/directories.
 
